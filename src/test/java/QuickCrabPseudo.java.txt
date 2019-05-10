@@ -1,0 +1,107 @@
+import info.gridworld.actor.CrabCritter;
+import info.gridworld.grid.Location;
+
+import java.util.ArrayList;
+
+/**
+ * A QuickCrab processes actors the same way CrabCritter does.
+ * It moves to one of the two locations, randomly selected,
+ * that are two spaces to its right or left,
+ * if that location and the intervening location are both empty.
+ * Otherwise, it moves like a CrabCritter.
+ *
+ * @author TODO: Add group members here
+ * @author Jack Gui
+ * @version 2019-03-15
+ */
+public class QuickCrabPseudo extends CrabCritter
+{
+    /**
+     * Construct a quick crab.
+     * Set color to distinguish from normal crab.
+     */
+    public QuickCrabPseudo()
+    {
+        /* Call super constructor */
+        /* Set a color other than blue */
+    }
+
+    /**
+     * A QuickCrab selects the locations two spaces to its right or left,
+     * if that location and the intervening location are both empty.
+     * Otherwise, it selects the locations like a CrabCritter.
+     *
+     * @return The list of move locations to select.
+     */
+    public ArrayList<Location> getMoveLocations()
+    {
+        ArrayList<Location> locations = new ArrayList<>();
+
+        // Validate two cells to the left.
+        Location left = /* Code: Validate Location.LEFT */;
+        if (/* Condition: When left is valid (not null) */)
+        {
+            /* Add left to locations */
+        }
+
+        // Validate two cells to the right.
+        Location right = /* Code: Validate Location.RIGHT */;
+        if (/* Condition: When right is valid (not null) */)
+        {
+            /* Add right to locations */
+        }
+
+        // Return the list of selected locations if any one of them is
+        // valid, else "moves like a CrabCritter".
+        if (/* Condition: When list is not empty */)
+        {
+            return locations;
+        }
+        else
+        {
+            /* Call super method to get locations so that it
+               "moves like a CrabCritter" */
+        }
+    }
+
+    /**
+     * Determine if a moving direction is valid:
+     * - The box in front of it is valid on the grid.
+     * - The box two cells in front of it is also valid on the grid.
+     * - Both boxes are empty.
+     *
+     * Returns the location 2 cells away if valid, else return null.
+     *
+     * @param relativeDir Direction to validate.
+     * @return Location 2 cells away if valid, null if invalid.
+     */
+    private Location validateMoveDirection(int relativeDir)
+    {
+        // Get compass direction with current dir and relative dir.
+        // Eg. Currently Facing: East  (90 deg),
+        //     Direction:        Left (-90 deg),
+        //     Compass Dir:      North  (0 deg)
+        int compassDir = /* Code */;
+
+        // Get the adjacent locations 1 cell and 2 cells away with
+        // the current location and compassDir.
+        Location adjLoc1 = /* Code */;
+        Location adjLoc2 = /* Code */;
+
+        // Verify if location 2 cell away is valid on the grid.
+        if (/* Condition: When location 2 cell away is not valid */)
+        {
+            return null;
+        }
+
+        // Verify if there are no actors in their place.
+        if (/* Condition: When any one of them is already occupied */)
+        {
+            return null;
+        }
+
+        // Return the location 2 cells away because that's where the
+        // quick crab critter would move to.
+        return adjLoc2;
+    }
+}

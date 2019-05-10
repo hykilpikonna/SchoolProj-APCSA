@@ -1,0 +1,1240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c289900b-91c9-4109-baa2-02ee1996648d" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_4/BlusterCritter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1740">
+              <caret line="125" column="41" selection-start-line="125" selection-start-column="41" selection-end-line="125" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_4/BlusterCritterRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_4/TestCritter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_5/QuickCrab.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="58" column="70" selection-start-line="58" selection-start-column="70" selection-end-line="58" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SleepSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_5/QuickCrabRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1845">
+              <caret line="130" column="1" selection-start-line="130" selection-start-column="1" selection-end-line="130" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/TestActor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>E3.10</find>
+      <find>E3.9</find>
+      <find>CashRegister10</find>
+      <find>4.1</find>
+      <find>4.2</find>
+      <find>println</find>
+      <find>+</find>
+      <find>String</find>
+      <find>5</find>
+      <find>[1]</find>
+      <find>particles[i]</find>
+      <find>gif</find>
+      <find>getBasicP</find>
+      <find>BufferedImage.TY</find>
+      <find>setR</find>
+      <find>set</find>
+      <find>jfram</find>
+      <find>Column</find>
+      <find>--</find>
+      <find>Seq</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>register</replace>
+      <replace>printf</replace>
+      <replace>,</replace>
+      <replace>int</replace>
+      <replace>&quot; + int</replace>
+      <replace>&quot; + intFormat</replace>
+      <replace>particle</replace>
+      <replace>-= INCR</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Ticrizon\Dropbox\IdeaProjects\School\src\main\java\cc\moecraft\school\chapter4</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/libs/maven/info/gridworld/info.gridworld.Gridworld/1.0/src/info/gridworld/actor/Bug.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/chapter8/e8_26/RobotTester.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/BugRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/CircleBug.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RGBFlower.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e2_1/CircleBug.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e2_1/CircleBugTester.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e2_3/SpiralBug.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RGBGridArrow.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RGBGridReverse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/chapter8/e8_26/Robot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e2_4/ZBug.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e2_3/ZBugTester.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e2_3/ZBug.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e2_2/SpiralBug.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e2_2/SpiralBugTester.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e2_4/DancingBugTester.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/BoxBugRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e2_4/DancingBug.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RGBGrid.java" />
+        <option value="$PROJECT_DIR$/src/test/java/JumperRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Jumper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9/ChameleonCritter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/info/gridworld/actor/ChameleonCritter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/info/gridworld/actor/CrabCritter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CritterRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_1/ChameleonCritter2Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_1/ChameleonCritter2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_2/ChameleonKid.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_2/ChameleonKidRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_3/RockHoundRunner.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Array2DExercisesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Array2DExercises.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Misc.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_3/RockHound.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/TestActor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/info/gridworld/actor/TestActor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_4/BlusterCritterAreaTester.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_5/QuickCrab.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_5/QuickCrabRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/TesterWorldBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_group/Brainstorm.md" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_4/TestCritter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_4/BlusterCritter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_4/BlusterCritterRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_5/QuickCrabPseudo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/QuickCrab.java" />
+        <option value="$PROJECT_DIR$/src/test/java/QuickCrabPseudo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SleepSort.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SchoolProject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SchoolProject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="School" type="b2602c69:ProjectViewProjectNode" />
+              <item name="School" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="School" type="b2602c69:ProjectViewProjectNode" />
+              <item name="School" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="School" type="b2602c69:ProjectViewProjectNode" />
+              <item name="School" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="School" type="b2602c69:ProjectViewProjectNode" />
+              <item name="School" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="School" type="b2602c69:ProjectViewProjectNode" />
+              <item name="School" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="school" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="School" type="b2602c69:ProjectViewProjectNode" />
+              <item name="School" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="school" type="462c0819:PsiDirectoryNode" />
+              <item name="gridworld" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="School" type="b2602c69:ProjectViewProjectNode" />
+              <item name="School" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="school" type="462c0819:PsiDirectoryNode" />
+              <item name="gridworld" type="462c0819:PsiDirectoryNode" />
+              <item name="e9_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="School" type="b2602c69:ProjectViewProjectNode" />
+              <item name="School" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="school" type="462c0819:PsiDirectoryNode" />
+              <item name="gridworld" type="462c0819:PsiDirectoryNode" />
+              <item name="e9_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="School" type="b2602c69:ProjectViewProjectNode" />
+              <item name="School" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="school" type="462c0819:PsiDirectoryNode" />
+              <item name="gridworld" type="462c0819:PsiDirectoryNode" />
+              <item name="e9_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="School" type="b2602c69:ProjectViewProjectNode" />
+              <item name="School" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="school" type="462c0819:PsiDirectoryNode" />
+              <item name="gridworld" type="462c0819:PsiDirectoryNode" />
+              <item name="e9_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="School" type="b2602c69:ProjectViewProjectNode" />
+              <item name="School" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="school" type="462c0819:PsiDirectoryNode" />
+              <item name="gridworld" type="462c0819:PsiDirectoryNode" />
+              <item name="e9_group" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="School" type="b2602c69:ProjectViewProjectNode" />
+              <item name="School" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="actor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="School" type="b2602c69:ProjectViewProjectNode" />
+              <item name="School" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="School" type="b2602c69:ProjectViewProjectNode" />
+              <item name="School" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="actor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="School" type="b2602c69:ProjectViewProjectNode" />
+              <item name="School" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="School" type="b2602c69:ProjectViewProjectNode" />
+              <item name="School" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="School" type="b2602c69:ProjectViewProjectNode" />
+              <item name="School" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="School" type="b2602c69:ProjectViewProjectNode" />
+              <item name="School" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="School" type="b2602c69:ProjectViewProjectNode" />
+              <item name="School" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="School" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="LombokPluginEnabledInProject" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553775692124" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/maven/info/gridworld/info.gridworld.Gridworld/1.0/src" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cc.moecraft.school.chapter3" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="info.gridworld.actor" />
+      <recent name="cc.moecraft" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Workspace\Dropbox\IdeaProjects\School\src\main\java\cc\moecraft\school\gridworld\e9_1" />
+      <recent name="C:\Workspace\Dropbox\IdeaProjects\School\src\main\java\info\gridworld\actor" />
+      <recent name="C:\Workspace\Dropbox\IdeaProjects\School\src\main\java\cc\moecraft\school\gridworld\e9" />
+      <recent name="C:\Workspace\Dropbox\IdeaProjects\School\src\main\java\cc\moecraft\school\gridworld\e2_4" />
+      <recent name="C:\Workspace\Dropbox\IdeaProjects\School\src\main\java\cc\moecraft\school\gridworld\e2_2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cc.moecraft.school.gridworld.e9_3" />
+      <recent name="" />
+      <recent name="cc.moecraft.school.gridworld.e2_2" />
+      <recent name="cc.moecraft.school.chapter4" />
+      <recent name="cc.moecraft.school.chapter3.cash" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Dropbox\IdeaProjects\School\src\main\resources\cc\moecraft\school\gridworld" />
+      <recent name="C:\Workspace\Dropbox\IdeaProjects\School\src\main\resources\cc.moecraft.school.gridworld" />
+      <recent name="C:\Workspace\Dropbox\IdeaProjects\School\src\main\resources\info\gridworld\actor" />
+      <recent name="C:\Workspace\Dropbox\IdeaProjects\School\src\main\java\info\gridworld\actor" />
+      <recent name="C:\Workspace\Dropbox\IdeaProjects\School\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SleepSortTester">
+    <configuration name="BlusterCritterRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cc.moecraft.school.gridworld.e9_4.BlusterCritterRunner" />
+      <module name="School" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cc.moecraft.school.gridworld.e9_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BugRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cc.moecraft.school.gridworld.BugRunner" />
+      <module name="School" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cc.moecraft.school.gridworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickCrabRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cc.moecraft.school.gridworld.e9_5.QuickCrabRunner" />
+      <module name="School" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cc.moecraft.school.gridworld.e9_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SleepSortTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SleepSortTester" />
+      <module name="School" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array2DExercisesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="School" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Array2DExercisesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BlusterCritterRunner" />
+      <item itemvalue="Application.QuickCrabRunner" />
+      <item itemvalue="Application.BugRunner" />
+      <item itemvalue="JUnit.Array2DExercisesTest" />
+      <item itemvalue="Application.SleepSortTester" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SleepSortTester" />
+        <item itemvalue="Application.BugRunner" />
+        <item itemvalue="Application.BlusterCritterRunner" />
+        <item itemvalue="Application.QuickCrabRunner" />
+        <item itemvalue="JUnit.Array2DExercisesTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c289900b-91c9-4109-baa2-02ee1996648d" name="Default" comment="" />
+      <created>1536191158048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536191158048</updated>
+      <workItem from="1536191162955" duration="373000" />
+      <workItem from="1536191573952" duration="12425000" />
+      <workItem from="1537184734226" duration="992000" />
+      <workItem from="1537834169985" duration="496000" />
+      <workItem from="1538006448398" duration="534000" />
+      <workItem from="1538007292360" duration="3189000" />
+      <workItem from="1538076947019" duration="2293000" />
+      <workItem from="1538141651258" duration="1126000" />
+      <workItem from="1538142970659" duration="975000" />
+      <workItem from="1538219905142" duration="227000" />
+      <workItem from="1538411679476" duration="3119000" />
+      <workItem from="1538423254315" duration="9492000" />
+      <workItem from="1538571777666" duration="3048000" />
+      <workItem from="1538664227585" duration="3322000" />
+      <workItem from="1538761078774" duration="1283000" />
+      <workItem from="1539351268497" duration="2806000" />
+      <workItem from="1539621215000" duration="1436000" />
+      <workItem from="1539781885851" duration="1378000" />
+      <workItem from="1539817363453" duration="2929000" />
+      <workItem from="1539814057162" duration="782000" />
+      <workItem from="1539872829117" duration="2252000" />
+      <workItem from="1540304331739" duration="516000" />
+      <workItem from="1540399952599" duration="1506000" />
+      <workItem from="1540556695503" duration="3286000" />
+      <workItem from="1540824730305" duration="2087000" />
+      <workItem from="1540852385722" duration="818000" />
+      <workItem from="1540935352473" duration="1191000" />
+      <workItem from="1541083934641" duration="602000" />
+      <workItem from="1541191591584" duration="419000" />
+      <workItem from="1542595083224" duration="5520000" />
+      <workItem from="1543275405337" duration="1578000" />
+      <workItem from="1544663470556" duration="1166000" />
+      <workItem from="1544814604505" duration="1294000" />
+      <workItem from="1545061283635" duration="17153000" />
+      <workItem from="1545133238244" duration="20671000" />
+      <workItem from="1545260655997" duration="93000" />
+      <workItem from="1545260889161" duration="10000" />
+      <workItem from="1545510987910" duration="25000" />
+      <workItem from="1546454947109" duration="1074000" />
+      <workItem from="1546457487714" duration="39000" />
+      <workItem from="1546457578841" duration="28000" />
+      <workItem from="1546457631040" duration="13000" />
+      <workItem from="1546567307578" duration="2410000" />
+      <workItem from="1546972251844" duration="2258000" />
+      <workItem from="1547063930436" duration="603000" />
+      <workItem from="1547143161633" duration="101000" />
+      <workItem from="1547143296248" duration="2953000" />
+      <workItem from="1547167655166" duration="309000" />
+      <workItem from="1547476363714" duration="1282000" />
+      <workItem from="1547573425976" duration="2336000" />
+      <workItem from="1547580207781" duration="2393000" />
+      <workItem from="1548865675725" duration="3706000" />
+      <workItem from="1548877930562" duration="3521000" />
+      <workItem from="1548940984922" duration="643000" />
+      <workItem from="1548965739307" duration="2593000" />
+      <workItem from="1549313404503" duration="719000" />
+      <workItem from="1549378516937" duration="646000" />
+      <workItem from="1549418146131" duration="858000" />
+      <workItem from="1549477709632" duration="213000" />
+      <workItem from="1549569027663" duration="3544000" />
+      <workItem from="1549632133051" duration="3661000" />
+      <workItem from="1549655625946" duration="3583000" />
+      <workItem from="1549899490036" duration="3246000" />
+      <workItem from="1549926064436" duration="1000" />
+      <workItem from="1549992162382" duration="2268000" />
+      <workItem from="1549996902226" duration="1896000" />
+      <workItem from="1550154718480" duration="2173000" />
+      <workItem from="1550176165004" duration="1854000" />
+      <workItem from="1550251621960" duration="3331000" />
+      <workItem from="1550262030623" duration="668000" />
+      <workItem from="1550350331550" duration="1872000" />
+      <workItem from="1551188098532" duration="1336000" />
+      <workItem from="1551210873643" duration="1383000" />
+      <workItem from="1551283572829" duration="54000" />
+      <workItem from="1551298928449" duration="5732000" />
+      <workItem from="1551379413213" duration="1412000" />
+      <workItem from="1551385079151" duration="1022000" />
+      <workItem from="1551471927187" duration="1034000" />
+      <workItem from="1551640346681" duration="1198000" />
+      <workItem from="1551664202021" duration="1112000" />
+      <workItem from="1551797014080" duration="599000" />
+      <workItem from="1551816233855" duration="1018000" />
+      <workItem from="1551817280064" duration="5856000" />
+      <workItem from="1551893979650" duration="1550000" />
+      <workItem from="1551902110046" duration="4470000" />
+      <workItem from="1551991990434" duration="3367000" />
+      <workItem from="1552050728101" duration="2927000" />
+      <workItem from="1552315111348" duration="3671000" />
+      <workItem from="1552342495354" duration="728000" />
+      <workItem from="1552412387667" duration="4720000" />
+      <workItem from="1552503475546" duration="2054000" />
+      <workItem from="1552570469808" duration="2631000" />
+      <workItem from="1552667924230" duration="243000" />
+      <workItem from="1552668196615" duration="1834000" />
+      <workItem from="1552670084291" duration="739000" />
+      <workItem from="1552843866775" duration="3940000" />
+      <workItem from="1553094425390" duration="2257000" />
+      <workItem from="1554824082182" duration="383000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Array2DExercisesTest - 2019.03.07 at 16h 25m 10s.xml">
+      <configuration name="Array2DExercisesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Array2DExercisesTest - 2019.03.07 at 16h 26m 23s.xml">
+      <configuration name="Array2DExercisesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Array2DExercisesTest - 2019.03.07 at 16h 28m 41s.xml">
+      <configuration name="Array2DExercisesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Array2DExercisesTest - 2019.03.07 at 16h 31m 00s.xml">
+      <configuration name="Array2DExercisesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Array2DExercisesTest - 2019.03.07 at 16h 32m 37s.xml">
+      <configuration name="Array2DExercisesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Array2DExercisesTest - 2019.03.07 at 16h 33m 59s.xml">
+      <configuration name="Array2DExercisesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Array2DExercisesTest - 2019.03.07 at 16h 36m 53s.xml">
+      <configuration name="Array2DExercisesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Array2DExercisesTest - 2019.03.07 at 16h 41m 13s.xml">
+      <configuration name="Array2DExercisesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Array2DExercisesTest - 2019.03.07 at 16h 41m 39s.xml">
+      <configuration name="Array2DExercisesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Array2DExercisesTest - 2019.03.07 at 16h 42m 43s.xml">
+      <configuration name="Array2DExercisesTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="226276000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14467409" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3277378" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49871793" weight="0.29444444" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33733013" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936507" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50128204" side_tool="true" weight="0.30055955" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.5216908" />
+      <window_info anchor="bottom" id="Statistic" order="12" />
+      <window_info anchor="bottom" id="Tail" order="13" />
+      <window_info anchor="bottom" id="CSS-X-Fire" order="14" />
+      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32932165" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.008528785" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.16936791" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/cc/moecraft/school/chapter3/car/CarTester.java</url>
+          <line>4</line>
+          <properties class="cc.moecraft.school.chapter3.car.CarTester" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/deprecated/gridworld/Test.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties>
+            <option name="NOTIFY_CAUGHT" value="false" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>double rate = 10d;
+double temp = ++ (rate / 100d);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>double rate = 10d;
+double temp = ++ rate;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>double rate = 10d;
+double temp = ++ rate / 100d;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>critter.getPossibleLocations()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new BlusterCritter(1).getPossibleLocations()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>loc1.getDirectionToward(new Location(6, 5))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>loc2.getAdjacentLocation(Location.SOUTH)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>loc1.equals(loc2)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>calendar.getTime()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>calendar.getTime().getTime()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new Date(2018, 07, 15)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new Date(2018, 07, 15).getYear()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/BoxBug.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/maven/info/gridworld/info.gridworld.Gridworld/1.0/src/info/gridworld/grid/BoundedGrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="77" column="42" selection-start-line="77" selection-start-column="42" selection-end-line="77" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/maven/info/gridworld/info.gridworld.Gridworld/1.0/src/info/gridworld/grid/AbstractGrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/deprecated/older/PrimeNumberFinder.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/deprecated/older/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/deprecated/gridworld/RGBFlower.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/deprecated/gridworld/RGBGrid.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/deprecated/gridworld/RGBGridReverse.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/deprecated/gridworld/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/deprecated/gridworld/RGBGridArrow.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/BoxBugRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="49" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/gridworld/info.gridworld.Gridworld/1.0/info.gridworld.Gridworld-1.0.jar!/info/gridworld/actor/Actor.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/Jumper.gif" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/BoxBug.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Jumper.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/JumperRunner.java" />
+    <entry file="file://$PROJECT_DIR$/libs/maven/info/gridworld/info.gridworld.Gridworld/1.0/src/info/gridworld/actor/Bug.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/info/gridworld/actor/ChameleonCritter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e2_4/DancingBugTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CritterRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/maven/info/gridworld/info.gridworld.Gridworld/1.0/src/info/gridworld/actor/Flower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="28" column="58" lean-forward="true" selection-start-line="28" selection-start-column="58" selection-end-line="29" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/maven/info/gridworld/info.gridworld.Gridworld/1.0/src/info/gridworld/grid/Grid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="78" column="6" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Array2DExercises.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_1/ChameleonCritter2Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Misc.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Array2DExercisesTest.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_2/ChameleonKidRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_2/ChameleonKid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_1/ChameleonCritter2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="53" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_3/RockHoundRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/maven/info/gridworld/info.gridworld.Gridworld/1.0/src/info/gridworld/actor/Critter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/maven/info/gridworld/info.gridworld.Gridworld/1.0/src/info/gridworld/actor/Actor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="135" selection-start-line="135" selection-end-line="135" />
+          <folding>
+            <element signature="e#1334#1335#0" expanded="true" />
+            <element signature="e#1362#1363#0" expanded="true" />
+            <element signature="e#1500#1501#0" expanded="true" />
+            <element signature="e#1532#1533#0" expanded="true" />
+            <element signature="e#2401#2402#0" expanded="true" />
+            <element signature="e#2428#2429#0" expanded="true" />
+            <element signature="e#2637#2638#0" expanded="true" />
+            <element signature="e#2668#2669#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/Color.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_4/BlusterCritterAreaTester.java" />
+    <entry file="file://$PROJECT_DIR$/libs/maven/info/gridworld/info.gridworld.Gridworld/1.0/src/info/gridworld/grid/Location.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-855">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/maven/info/gridworld/info.gridworld.Gridworld/1.0/src/info/gridworld/actor/ActorWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
+          <folding>
+            <element signature="e#2079#2080#0" expanded="true" />
+            <element signature="e#2133#2134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/maven/info/gridworld/info.gridworld.Gridworld/1.0/src/info/gridworld/world/World.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/TesterWorldBuilder.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/info/gridworld/actor/CrabCritter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="67" column="30" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_3/RockHound.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_group/Brainstorm.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/QuickCrabPseudo.java.txt" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Wabbitemu/wabbitemu.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_4/BlusterCritter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="125" column="41" selection-start-line="125" selection-start-column="41" selection-end-line="125" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_4/BlusterCritterRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_4/TestCritter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_5/QuickCrabRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="130" column="1" selection-start-line="130" selection-start-column="1" selection-end-line="130" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/TestActor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cc/moecraft/school/gridworld/e9_5/QuickCrab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="70" selection-start-line="58" selection-start-column="70" selection-end-line="58" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SleepSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>annotations-java8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>School</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: cn.hutool:hutool-all:4.4.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="org.apache.maven.plugins:maven-install-plugin:2.5.2:install-file -Dfile=C:\Users\Ticrizon\Downloads\GridWorldCode\GridWorldCode\gridworld.jar -DgroupId=info.gridworld -DartifactId=info.gridworld.Gridworld -Dversion=1.0 -Dpackaging=jar -DlocalRepositoryPath=C:\Workspace\Dropbox\IdeaProjects\School\libs\maven" />
+  </component>
+</project>
